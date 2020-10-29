@@ -1,4 +1,11 @@
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+grin
+grin-wallet
+.owner_api_secret
+.api_secret
+grin-wallet.log
+grin-server.log
+/chain_data
+/wallet_data
+/tmp
+grin-miner.log
+grin-miner
