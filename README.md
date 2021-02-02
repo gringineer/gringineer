@@ -70,3 +70,5 @@ The `grin-wallet --usernet --run_foreign owner_api` command will start the api l
 
 - [Grin Official CLI documentation](https://github.com/mimblewimble/docs/wiki/Wallet-User-Guide)
 - [Grin Official JSON RPC API documentation](https://github.com/mimblewimble/docs/wiki/Wallet-JSON-RPC-API-Guide)
+
+# [Work Together](https://github.com/gringineer?tab=stars)
