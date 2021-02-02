@@ -1,6 +1,8 @@
 # Start With Grin
 
 ```
+The Four Agreements:
+
 Be Impeccable With Your Word 
 Don't Take Anything Personally
 Don't Make Assumptions
