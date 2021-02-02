@@ -60,7 +60,9 @@ Follow the prompts
 
 `./grin-wallet --usernet owner_api --run_foreign`
 
-The `grin-wallet --usernet --run_foreign owner_api` command will start the api listener and allow you to receive your `UserTesting` coins that your grin process will mine.
+The `grin-wallet --usernet --run_foreign owner_api` command will start the api listener.
+
+
 
 ##### You can find documentation about the grin-wallet cli and rpc below:
 
