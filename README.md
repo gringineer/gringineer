@@ -16,10 +16,6 @@ This walkthough will create an enviroment is useful if you want to develop with 
 - `chain_type` in your `grin-wallet.toml` and `grin-node.toml` are set to `UserTesting` which means that you will run a grin blockchain local to your computer.
 - `run_test_miner` is set to `true` to mine coins. If you're interested in mining on floonet or mainnet check out [grin-miner](https://github.com/mimblewimble/grin-miner).
 
-#### Clone gringineer
-
-`git clone https://github.com/gringineer/gringineer.git`
-
 #### Download grin binaries
 
 1. [grin](https://github.com/mimblewimble/grin/releases)
