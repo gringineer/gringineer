@@ -23,7 +23,7 @@ This walkthough will create an enviroment is useful if you want to develop with 
 1. [grin](https://github.com/mimblewimble/grin/releases)
 1. [grin-wallet](https://github.com/mimblewimble/grin-wallet/releases)
 
-Extract grin and grin-wallet to gringineer
+Extract grin and grin-wallet
 
 #### Run
 
