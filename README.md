@@ -11,7 +11,7 @@ Always Do Your Best
 
 ## Walk Through: Create Local Grin Development Enviroment
 
-This walkthough will create an enviroment is useful if you want to develop with grin locally.
+This walkthough will create an enviroment for development with grin locally.
 
 **Note:**
 
