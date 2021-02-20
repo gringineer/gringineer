@@ -30,7 +30,7 @@ Extract grin and grin-wallet
 `./grin --usernet`
 
 - `./chain_data` is responsible for housing the blockchain
-- `grin-server.log` that will be the output of the grin process.
+- `grin-server.log` output of the grin process
 
 
 #### Open `/{{grin-dir}}/grin-server.toml`
@@ -53,18 +53,16 @@ test_miner_wallet_url = "http://127.0.0.1:3420"
 
 Follow the prompts
 
-- `./wallet_data` is responsible for housing wallet information
-- `grin-wallet.log` will be the output of the grin wallet process
-- `.api_secret` is responsible for encrypting traffic between the `grin` and `grin-wallet`
-- `.owner_api_secret` is responsible for encrypting traffic between the `grin-wallet` owner api and other services.
+- `./wallet_data` wallet information
+- `grin-wallet.log` output of the grin wallet process
+- `.api_secret` secret for encrypting traffic between the `grin` and `grin-wallet`
+- `.owner_api_secret` secret for encrypting owner (and foreign) api traffic
 
 #### Run
 
 `./grin-wallet --usernet owner_api --run_foreign`
 
-The `grin-wallet --usernet --run_foreign owner_api` command will start the api listener.
-
-
+The `grin-wallet --usernet --run_foreign owner_api` command will start both the owner and foreign api listeners on the owner api port
 
 ##### You can find documentation about the grin-wallet cli and rpc below:
 
